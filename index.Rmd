@@ -2,7 +2,7 @@
 title: "Katie's Website"
 ---
 
-My name is Katie Hendry and I'm a postgraduate student in the University of Glasgow's [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
+**My name is Katie Hendry and I'm a postgraduate student in the University of Glasgow's [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).**
 
 
 
