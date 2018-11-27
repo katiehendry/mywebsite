@@ -2,14 +2,15 @@
 title: "Research Experience"
 ---
 
-
+&nbsp;
+&nbsp;
 
 ## University of Glasgow
 
-Currently, I am working on a project supervised by Dr Lawrence Barsalou, which expands on the research conducted by Courtney Taylor-Browne on Trichotillomania. Trichotillomania is a disorder characterised by the irresistable urge to pull one's own hair. The first part of Courtney's study investigated the conditions under which individuals with trichotillomania often tend to pull their hair, and this established a set of situations in which hair pulling generally occurs. The second part of the study investigated factors, such as internal and external cues, and how much they predicted both frequency and urge of hair pulling across this range of situations. The current study we are working on aims to replicate this previous work, with the aim of collapsing variables which were highly correlated in the previous study. It is hugely exciting to be working on a project such as this, given that trichotillomania has not been the subject of a huge amount of research, and we are hoping we will provide some valuable insights into this area.
+Currently, I am working on a project supervised by Dr Lawrence Barsalou, which expands on the research conducted by Courtney Taylor-Browne on Trichotillomania (hair-pulling disorder). The first part of Courtney's study investigated the conditions under which individuals with trichotillomania often tend to pull their hair, and this established a set of situations in which hair pulling generally occurs. The second part of the study investigated factors, such as internal and external cues, and how much they predicted both frequency and urge of hair pulling across this range of situations. The current study we are working on aims to replicate this previous work, with the aim of collapsing variables which were highly correlated in the previous study. Trichotillomania has not been the subject of a huge amount of research, and we are hoping we will provide some valuable insights into this area.
 
-
-
+&nbsp;
+&nbsp;
 
 
 ## University of Strathclyde
@@ -19,12 +20,16 @@ During my final year, I worked with Dr Lynn Williams on a study which looked at 
 The full paper can be downloaded [here](DissertationTypeDFinal.docx).
 
 
-
-
-
+&nbsp;
+&nbsp;
 
 ## Humboldt-Universität zu Berlin
 
-I was hugely honoured to be selected for a competitive ERASMUS research placement during the summer between my third and fourth year. I interned as a research assistant in the departments of Clinical, Cognitive and Biological Psychology at Humboldt University in Berlin. My duties in the Clinical department involved standardising test scores for anxiety and depression, using QRSTool to carry out analysis on heart rates of participants, conducting analyses using BrainVision Analyser 2.1 including the removal of artefacts, and writing up an article for a study which looked at training participants with OCD to respond positively to errors. 
+I was hugely honoured to be selected for a competitive ERASMUS research placement during the summer between my third and fourth year. I interned as a research assistant in the departments of Clinical, Cognitive and Biological Psychology at Humboldt University in Berlin.
+
+My duties in the Clinical department involved standardising test scores for anxiety and depression, using QRSTool to carry out analysis on heart rates of participants, conducting analyses using BrainVision Analyser 2.1 including the removal of artefacts, and writing up an article for a study which looked at training participants with OCD to respond positively to errors. 
 
 I also helped the Cognitive and Biological departments to run participants on the EEG for their respective studies on lexical decision making as part of a group task (Cognitive) and how the presence of oxytocin in young mothers makes them better at regulating emotional expression (Biological). This involved preparing the peeling and electrode gel for participants being ran on the EEG, administering the computer programmes associated with the EEG and cleaning up the electrodes and scalp mask afterwards.
+
+&nbsp;
+&nbsp;
