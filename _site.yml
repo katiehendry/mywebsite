@@ -12,6 +12,8 @@ navbar:
       href: index.html
     - text: "Education"
       href: education.html
+    - text: "Research Interests"
+      href: researchinterests.html
     - text: "Research Experience"
       href: researchexperience.html
     - text: "About Me"
