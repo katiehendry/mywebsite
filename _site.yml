@@ -6,4 +6,13 @@ output:
     self_contained: no  
     theme: flatly  
 navbar:  
-  title: "My First Webpage"
+  title: "Katie's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Education"
+      href: education.html
+    - text: "Research Experience"
+      href: researchexperience.html
+    - text: "Contact Details"
+      href: contactdetails.html

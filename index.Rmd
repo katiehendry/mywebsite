@@ -1,8 +1,16 @@
 ---
-title: "My Website"
-
+title: "Katie's Website"
 ---
 
-I am a postgraduate student in the University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
-I work with Dr Lawrence Barsalou (http://barsaloulab.org/lab-members/lawrence-barsalou/)
+My name is Katie Hendry and I'm a postgraduate student in the University of Glasgow's [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
+
+
+
+!(documents/graduationpic.jpg)
+!(documents/posterpic.jpg)
+
+
+
+I'm currently working towards an MSc in Research Methods of Psychology. My MSc thesis is being supervised by [Dr Lawrence Barsalou] (http://barsaloulab.org/lab-members/lawrence-barsalou/), and we are investigating situated predictors of hair-pulling. Upon completion of my masters, I hope to pursue a career in clinical practice, ultimately gaining entry to the DClinPsych Clinical Psychology at the University of Glasgow.
+
+Here on my webpage you can read about my Education and Research Experience, and a copy of my CV can be found [here](documents/Cirriculum Vitae Final.docx). My [contact details](contactdetails.html) are also listed if you wish to contact me.

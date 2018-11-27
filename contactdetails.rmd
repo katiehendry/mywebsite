@@ -1,0 +1,10 @@
+---
+title: "Contact Details"
+---
+
+# Contact Details
+
+email: 2145254H@student.gla.ac.uk
+[LinkedIn](https://www.linkedin.com/in/katie-hendry-87b260144/)
+[Github](https://github.com/katiehendry)
+[Twitter](https://twitter.com/katiehendry__)
