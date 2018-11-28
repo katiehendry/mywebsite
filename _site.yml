@@ -13,7 +13,7 @@ navbar:
     - text: "Education"
       href: education.html
     - text: "Research Interests"
-      href: researchinterests.html
+      href: research_interests.html
     - text: "Research Experience"
       href: researchexperience.html
     - text: "About Me"
