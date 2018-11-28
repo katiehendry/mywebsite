@@ -14,5 +14,3 @@ title: "Useful Links"
 [MSc Research Methods in Psychological Science course info page](https://www.gla.ac.uk/postgraduate/taught/psychologicalscienceresearchmethodsof/) 
 
 [Psychology Intranet](https://intranet.psy.gla.ac.uk/login.php)
-
-https://intranet.psy.gla.ac.uk/login.php
