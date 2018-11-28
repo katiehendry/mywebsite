@@ -17,7 +17,7 @@ navbar:
     - text: "Research Experience"
       href: researchexperience.html
     - text: "Extracurricular"
-      href: aboutme.html
+      href: extracurricular.html
     - text: "Contact Details"
       href: contactdetails.html
     - text: "Useful Links"
