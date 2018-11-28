@@ -25,7 +25,7 @@ I'm currently working towards an MSc in Research Methods of Psychology. My MSc t
 &nbsp;
 &nbsp;
 
-Here on my webpage you can read about my [Education](education.html), [Research Interests](researchinterests.html) and [Research Experience](researchexperience.html). A copy of my CV can be found [here](Cirriculum Vitae Final PDF.pdf).
+Here on my webpage you can read about my [Education](education.html), [Research Interests](researchinterests.html), [Research Experience](researchexperience.html) and [Extracurricular Activities](extracurricular.html). A copy of my CV can be found [here](Cirriculum Vitae Final PDF.pdf).
 
 &nbsp;
 
