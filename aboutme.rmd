@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Extracurricular"
 ---
 
 &nbsp;
@@ -51,7 +51,7 @@ I have also had a passion for music throughout my life, including reaching Grade
 &nbsp;
 &nbsp;
 
-![](images/Gig.jpg)
+![Recent gig I attended](images/Gig.jpg)
 
 &nbsp;
 &nbsp;
